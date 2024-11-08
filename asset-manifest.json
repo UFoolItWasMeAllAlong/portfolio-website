@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.879c35f7.css",
+    "main.js": "/portfolio-website/static/js/main.729571f2.js",
+    "static/css/990.c6a7ee28.chunk.css": "/portfolio-website/static/css/990.c6a7ee28.chunk.css",
+    "static/js/990.ad07912e.chunk.js": "/portfolio-website/static/js/990.ad07912e.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/portfolio-website/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/harshTalksHockeyLogo.png": "/portfolio-website/static/media/harshTalksHockeyLogo.e7f9fbe2143a77752fa9.png",
+    "static/media/myFace.png": "/portfolio-website/static/media/myFace.184988e394abee89bf52.png",
+    "static/media/freelanceLogo.png": "/portfolio-website/static/media/freelanceLogo.50d82d2f4a74c7b25cfd.png",
+    "static/media/Agustina.woff": "/portfolio-website/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/skill.png": "/portfolio-website/static/media/skill.9bdeac3092949b97fa59.png",
+    "static/media/skills.png": "/portfolio-website/static/media/skills.3ff2c85aab078ab3a518.png",
+    "static/media/navlyLogo.png": "/portfolio-website/static/media/navlyLogo.aaee3cad606e9307733f.png",
+    "index.html": "/portfolio-website/index.html",
+    "main.879c35f7.css.map": "/portfolio-website/static/css/main.879c35f7.css.map",
+    "main.729571f2.js.map": "/portfolio-website/static/js/main.729571f2.js.map",
+    "990.c6a7ee28.chunk.css.map": "/portfolio-website/static/css/990.c6a7ee28.chunk.css.map",
+    "990.ad07912e.chunk.js.map": "/portfolio-website/static/js/990.ad07912e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.879c35f7.css",
+    "static/js/main.729571f2.js"
+  ]
+}
