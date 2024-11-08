@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-website/static/css/main.879c35f7.css",
-    "main.js": "/portfolio-website/static/js/main.729571f2.js",
+    "main.js": "/portfolio-website/static/js/main.e53b0a5a.js",
     "static/css/990.c6a7ee28.chunk.css": "/portfolio-website/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.ad07912e.chunk.js": "/portfolio-website/static/js/990.ad07912e.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/portfolio-website/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -14,12 +14,12 @@
     "static/media/navlyLogo.png": "/portfolio-website/static/media/navlyLogo.aaee3cad606e9307733f.png",
     "index.html": "/portfolio-website/index.html",
     "main.879c35f7.css.map": "/portfolio-website/static/css/main.879c35f7.css.map",
-    "main.729571f2.js.map": "/portfolio-website/static/js/main.729571f2.js.map",
+    "main.e53b0a5a.js.map": "/portfolio-website/static/js/main.e53b0a5a.js.map",
     "990.c6a7ee28.chunk.css.map": "/portfolio-website/static/css/990.c6a7ee28.chunk.css.map",
     "990.ad07912e.chunk.js.map": "/portfolio-website/static/js/990.ad07912e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.879c35f7.css",
-    "static/js/main.729571f2.js"
+    "static/js/main.e53b0a5a.js"
   ]
 }
